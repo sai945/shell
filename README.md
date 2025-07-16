@@ -1,2 +1,2 @@
-# shell
-shell scripting
+# Shell
+Schell Scripts
